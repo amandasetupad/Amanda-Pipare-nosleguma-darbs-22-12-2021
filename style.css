@@ -1365,7 +1365,7 @@ li {
 
 .container-header .nav-wrapper-contact-page {
   position: absolute;
-  z-index: 2;
+  z-index: 0;
   left: 0;
   right: 0;
   top: 0;
